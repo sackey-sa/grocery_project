@@ -1,2 +1,2 @@
 # grocery_project
-Based off YT tutorial 
+Grocery Management Project. Utilizing SQL, Python, Flask. Currently working on FRONTEND
